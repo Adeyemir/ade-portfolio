@@ -2,7 +2,6 @@
 
 A modern, responsive personal portfolio website built with React, TypeScript, and Tailwind CSS.
 
-![Portfolio Preview](./public/about-portrait.jpg)
 
 ## Features
 
